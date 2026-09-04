@@ -40,6 +40,7 @@ Repository Contents
 - 🏆 Verified NPTEL Certificate
 
 Certificate
+
 [View Certificate](./NPTEL-Introduction-to-IoT-Certificate.pdf)
 
  
