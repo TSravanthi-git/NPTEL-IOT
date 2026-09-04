@@ -40,7 +40,8 @@ Repository Contents
 - 🏆 Verified NPTEL Certificate
 
 Certificate
+[View Certificate](./NPTEL-Introduction-to-IoT-Certificate.pdf)
 
-"View NPTEL Introduction to IoT Certificate" (./NPTEL-Introduction-to-IoT-Certificate.pdf)
+ 
 
-Certificate ID: "NPTEL26CS37S768101225"
+
